@@ -1,0 +1,12 @@
+{
+  "name"        : "sentiments",
+  "version"     : "1.0.0",
+  "description" : "extract sentiment details form xml",
+  "main"        : "sentiments.js",
+  "dependencies"  : {
+    "cheerio"       : "latest",
+    "csv-stringify" : "latest",
+    "fs"            : "latest"
+  },
+  "author": "jmc"
+}
